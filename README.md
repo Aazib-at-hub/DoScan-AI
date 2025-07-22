@@ -19,7 +19,7 @@ No more manual typing — just upload, extract, and export.
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React + TailwindCSS + ShadCN
+- **Frontend:** React + TailwindCSS
 - **Backend:** FastAPI
 - **Database:** MongoDB
 - **OCR:** Tesseract / Google Vision (Pluggable)
